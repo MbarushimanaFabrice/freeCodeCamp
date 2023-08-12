@@ -1,5 +1,6 @@
 {
 	"name": "MBARUSHIMANA Fabrice",
+	"author":"Fabrice",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
